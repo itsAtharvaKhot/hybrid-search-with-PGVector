@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hybrid Search with PGVector
 
 A comprehensive hybrid search application that combines dense (semantic) and sparse (keyword-based) search using PostgreSQL with the pgvector extension.
@@ -214,3 +215,6 @@ This project is licensed under the MIT License.
 - [sentence-transformers](https://github.com/UKPLab/sentence-transformers) for semantic embeddings
 - [Streamlit](https://streamlit.io/) for the web interface
 - [PostgreSQL](https://www.postgresql.org/) for the database backend 
+=======
+# hybrid-search-with-PGVector
+>>>>>>> 5517a3b69bdb304067ec66035a9b6dbd97b7400f
